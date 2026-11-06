@@ -151,7 +151,7 @@ void search(int val){ // Time complexity: O(n)
 
 int main(){
     int n , val;
-    printf("Enter no, of Nodes: ");
+    printf("Enter no. of Nodes: ");
     scanf("%d",&n);
 
     for (int i =1; i<=n; i++){
